@@ -14,8 +14,8 @@ This project is part of the **MIS-443 SQL Challenge**, where we analyze real-wor
 
 ## Project Structure
 - `queries.sql` → Contains all SQL queries used in the analysis.
-- `insights.md` → Explains key insights derived from the queries.
-- `foodie-fi_presentation.pdf` → A summary presentation of findings.
+- `group 2 final report.pdf` → Explains key insights derived from the queries.
+- `foodie-fi presentation.pdf` → A summary presentation of findings.
 - `README.md` → This project documentation.
 
 ## Dataset Overview
