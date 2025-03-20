@@ -26,11 +26,16 @@ The **Foodie-Fi** dataset consists of:
 For more details, visit the [original case study](https://8weeksqlchallenge.com/case-study-3/).
 
 ## Key Questions Answered
-- How many customers started with a **free trial** and later subscribed to paid plans?
-- What are the most **popular subscription plans**?
-- How much **revenue** does Foodie-Fi generate monthly?
-- What is the **average subscription duration** per plan?
-- Are there seasonal trends in **customer sign-ups**?
+- How many customers started with a free trial and later subscribed to paid plans?
+- Which subscription plans are the most popular?
+- How much money does Foodie-Fi earn each month?
+- What is the average time customers stay subscribed to each plan?
+- Are there any seasonal patterns in customer sign-ups?
+- How many customers cancel after the free trial?
+- What is the overall customer churn rate?
+- What are the trends in subscription upgrades and downgrades?
+- How can Foodie-Fi improve customer retention and reduce churn?
+- What business strategies can help increase revenue and customer loyalty?
 
 ## Tools Used
 - **SQL** (DB Fiddle)
